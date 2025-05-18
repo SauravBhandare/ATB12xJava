@@ -13,7 +13,9 @@ public class Lab_35_Literals_Non_Primitive {
         // Min Max not fixed size
        // 8 byte 64 bits
 
-        string str ="SauravBhandare";
+        String str ="SauravBhandare";
+        System.out.println(str);
+
 
     }
 }
