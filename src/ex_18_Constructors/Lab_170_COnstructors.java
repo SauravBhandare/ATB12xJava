@@ -1,4 +1,4 @@
-package Lab_18_Constructors;
+package ex_18_Constructors;
 
 public class Lab_170_COnstructors {
     public static void main(String[] args) {
