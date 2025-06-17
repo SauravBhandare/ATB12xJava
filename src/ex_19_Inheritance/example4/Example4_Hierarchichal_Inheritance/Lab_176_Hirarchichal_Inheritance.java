@@ -1,4 +1,4 @@
-package Example4_Hierarchichal_Inheritance;
+package ex_19_Inheritance.example4.Example4_Hierarchichal_Inheritance;
 
 public class Lab_176_Hirarchichal_Inheritance {
     public static void main(String[] args) {

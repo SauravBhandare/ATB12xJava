@@ -1,4 +1,4 @@
-package Example3_Multilevel_Inheritance;
+package ex_19_Inheritance.example3.Example3_Multilevel_Inheritance;
 
 public class GrandFather {
 

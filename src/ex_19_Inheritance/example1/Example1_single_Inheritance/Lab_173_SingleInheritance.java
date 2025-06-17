@@ -1,4 +1,4 @@
-package Example1_single_Inheritance;
+package ex_19_Inheritance.example1.Example1_single_Inheritance;
 
 public class Lab_173_SingleInheritance {
 
